@@ -154,6 +154,4 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-LEUL GEBREMARIAM - [Github](https://github.com/leul99teklu)
-
-ADAM TILAHUN - [Github](https://github.com/1991199119991)
+FREHIWOT BERHE - [Github](https://github.com/official-drfre)
